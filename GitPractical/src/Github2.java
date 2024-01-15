@@ -1,8 +1,7 @@
 
-public class Github1 {
+public class Github2 {
 public static void main(String[] args) {
 	System.out.println("Hello SDAC");
-	System.out.println("Hello SDAC1");
 	
 }
 }
